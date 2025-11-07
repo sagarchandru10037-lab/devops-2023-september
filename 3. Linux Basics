@@ -10,7 +10,7 @@ touch --> create a file
 vi --> i --> edit the file --> esc (exit insert mode) --> :wq!
 clear --> clear the screen
 cat --> read a file
-rmdir
+rmdir--> remove dir
 rm
 chmod --> permissions
 
